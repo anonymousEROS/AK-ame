@@ -1,6 +1,7 @@
 # AK-ame
 - Beta v2.0
-- Fixed duplications of items with 'reutrn' 
+- Fixed duplications of items with 'reutrn'
+- Can now change order of task according to priority
 
 ## Mission
 - Our mission is to create an elegant and user-friendly application with a clean UI that empowers users to effortlessly add their daily tasks. Upon completion, users can seamlessly remove these tasks from their collection
